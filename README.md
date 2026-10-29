@@ -28,11 +28,19 @@ I am learning how Git branches work.
 
 
 
-Skills: 
+Skills:
 
 HTML
 
 CSS
 
 JavaScript
+
+
+
+\## Contact
+
+
+
+You can contact me about my development journey.
 
