@@ -26,3 +26,13 @@ Learning Git for Full Stack Development.
 
 I am learning how Git branches work.
 
+
+
+Skills: 
+
+HTML
+
+CSS
+
+JavaScript
+
