@@ -52,5 +52,9 @@ You can contact me about my development journey.
 
 I am learning Full Stack Development.
 
+## Day 5 - Git workflow
+
+I am learning fetch, pull and push.
+
 My goal is to become a professional developer.
 
