@@ -44,3 +44,13 @@ JavaScript
 
 You can contact me about my development journey.
 
+
+
+\## About Me
+
+
+
+I am learning Full Stack Development.
+
+My goal is to become a professional developer.
+
