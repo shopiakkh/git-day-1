@@ -58,3 +58,9 @@ I am learning fetch, pull and push.
 
 My goal is to become a professional developer.
 
+\## Day 7 - Practice
+
+
+
+I am practicing Git branches and commits.
+
