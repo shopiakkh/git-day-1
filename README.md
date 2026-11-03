@@ -1,4 +1,4 @@
-\# Git Day 1
+# Git Day 1
 
 
 
@@ -10,17 +10,17 @@ Learning Git for Full Stack Development.
 
 
 
-\## What I'm learning
+## What I'm learning
 
 
 
-\- Git and GitHub
+- Git and GitHub
 
-\- Full Stack Development
+- Full Stack Development
 
 
 
-\## My first feature
+## My first feature
 
 
 
@@ -38,7 +38,7 @@ JavaScript
 
 
 
-\## Contact
+## Contact
 
 
 
@@ -46,7 +46,7 @@ You can contact me about my development journey.
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -58,7 +58,7 @@ I am learning fetch, pull and push.
 
 My goal is to become a professional developer.
 
-\## Day 7 - Practice
+## Day 7 - Practice
 
 
 
@@ -66,5 +66,10 @@ I am practicing Git branches and commits.
 
 
 
+
+## Merge Conflict Practice
+
+
 This text comes from master branch.
+This text comes from feature branch.
 
