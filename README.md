@@ -64,3 +64,7 @@ My goal is to become a professional developer.
 
 I am practicing Git branches and commits.
 
+
+
+This text comes from master branch.
+
