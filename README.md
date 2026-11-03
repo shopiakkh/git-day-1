@@ -64,3 +64,11 @@ My goal is to become a professional developer.
 
 I am practicing Git branches and commits.
 
+
+
+\## Merge Conflict Practice
+
+
+
+This text comes from feature branch.
+
